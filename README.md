@@ -1,4 +1,4 @@
-# Getting started in Juliia using Differential Equations
+# Getting started in Julia using Differential Equations
 
 ## Installation of Julia
 Windows:
