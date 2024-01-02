@@ -1,6 +1,6 @@
 # Getting started in Juliia using Differential Equations
 
-# Installation of Julia
+## Installation of Julia
 Windows:
 ```
 winget install julia -s msstore
@@ -10,13 +10,14 @@ Linux:
 curl -fsSL https://install.julialang.org | sh
 ```
 
-# Running and setting up
+## Running and setting up
 From the command line:
 ```
 julia
 ```
+![image](https://github.com/gopalchand/julia-differential-equations/assets/45721890/3ff159b7-c0a9-49da-99aa-8ea18ff29151)
 
-# Packages to get started
+## Packages to get started
 
 Install packages using the following in Julia (this will take some time):
 ```
@@ -30,7 +31,7 @@ Pkg.add("LaTeXStrings")
 
 Ctrl-D to exit Julia
 
-# Run example
+## Run example
 From the command line:
 ```
 julia -i DifferentialEquation1.jl
